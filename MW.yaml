@@ -1,0 +1,12 @@
+bib_all: C:\Users\dsmrc\Desktop\ZoteroPDFs\Mylibrary2.bib
+bib_single: "MyLibrary_single.bib"
+bib_top: "MyLibrary_top.bib"
+memex_path: .\_data\
+bib_way: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\Memex_sandbox\
+language_keys: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\language_keys.yml
+bibtex_keys: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\zotero_biblatex_keys.yml
+
+template_page: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\Memex_sandbox\_misc\template_page.html
+template_index: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\Memex_sandbox\_misc\template_index.html
+content_index: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\Memex_sandbox\_misc\content_index.html
+template_search: C:\Users\dsmrc\Desktop\DHkurz\Python\HW070172\L07\Memex_sandbox\_misc\template_search.html

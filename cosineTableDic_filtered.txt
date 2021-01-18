@@ -1,0 +1,122 @@
+{
+    "bachmann_raphael_1964": {
+        "burger_badenischen_1994": 0.2874340755677909
+    },
+    "bahm_class_1993": {
+        "bahm_inconveniences_1999": 0.5659264491399862,
+        "dreidemy_badeni_2015": 0.41587635749153046,
+        "jaeschke_national_2017": 0.33807069077480956,
+        "stambrook_national_2004": 0.30898301384860044,
+        "storm_questioning_2019": 0.331076442234439,
+        "stott_contemporary_2017": 0.3253012806254036,
+        "varga_writing_2017": 0.31761158483619767
+    },
+    "bahm_inconveniences_1999": {
+        "bahm_class_1993": 0.5659264491399862,
+        "dreidemy_badeni_2015": 0.5298724834706675,
+        "jaeschke_national_2017": 0.43326324074695494,
+        "stambrook_national_2004": 0.36225315863893254,
+        "storm_questioning_2019": 0.4366976704682786,
+        "stott_contemporary_2017": 0.3437279466936251,
+        "varga_writing_2017": 0.4035504383943062
+    },
+    "becker_organisationskultur_2011": {},
+    "bellabarba_habsburgerreich_2020": {},
+    "blahova_prohlasuji_2020": {
+        "vochyan_bakalarska_2020": 0.3717010274167262
+    },
+    "burger_badenischen_1994": {
+        "bachmann_raphael_1964": 0.2874340755677909
+    },
+    "davis_polizei_2011": {
+        "ludtke_polizei_2011": 0.3056449653941147
+    },
+    "dreidemy_badeni_2015": {
+        "bahm_class_1993": 0.41587635749153046,
+        "bahm_inconveniences_1999": 0.5298724834706675,
+        "jaeschke_national_2017": 0.44154334688303565,
+        "stambrook_national_2004": 0.33760398265799163,
+        "storm_questioning_2019": 0.338804966440611,
+        "stott_contemporary_2017": 0.3480933083743645,
+        "varga_writing_2017": 0.3300363255121565
+    },
+    "dutton_regiment_2011": {},
+    "fahlenbrach_protest-raume_2009": {},
+    "furmetz_besondere_2011": {},
+    "gebhardt_rolle_2011": {},
+    "hanser_street_2016": {
+        "noauthor_project_2020": 0.26345321950777373
+    },
+    "hartewig_bilder_2011": {
+        "salter_den_2011": 0.4021367604291351
+    },
+    "herrlein_kuchelbader_2015": {},
+    "jaeschke_national_2017": {
+        "bahm_class_1993": 0.33807069077480956,
+        "bahm_inconveniences_1999": 0.43326324074695494,
+        "dreidemy_badeni_2015": 0.44154334688303565,
+        "stambrook_national_2004": 0.2567657068665369,
+        "storm_questioning_2019": 0.259792250912987,
+        "varga_writing_2017": 0.2754200334069789
+    },
+    "lindenberger_vom_2011": {},
+    "lipp_wasser_2020": {},
+    "ludtke_polizei_2011": {
+        "davis_polizei_2011": 0.3056449653941147,
+        "sturm_unter_2011": 0.2915274280030509
+    },
+    "mangold_friedfertige_2011": {},
+    "neblich_beziehungen_2020": {},
+    "noauthor_project_2020": {
+        "hanser_street_2016": 0.26345321950777373
+    },
+    "ohlemacher_gewalt_2011": {},
+    "prove_burgergewalt_2011": {},
+    "salter_den_2011": {
+        "hartewig_bilder_2011": 0.4021367604291351
+    },
+    "schmidt_strase_2011": {},
+    "sittler_strase_2009": {},
+    "staheli_seducing_2011-1": {
+        "stott_contemporary_2017": 0.5668997738993231
+    },
+    "stambrook_national_2004": {
+        "bahm_class_1993": 0.30898301384860044,
+        "bahm_inconveniences_1999": 0.36225315863893254,
+        "dreidemy_badeni_2015": 0.33760398265799163,
+        "jaeschke_national_2017": 0.2567657068665369,
+        "storm_questioning_2019": 0.2986315804807757,
+        "varga_writing_2017": 0.3323989271228749
+    },
+    "storm_questioning_2019": {
+        "bahm_class_1993": 0.331076442234439,
+        "bahm_inconveniences_1999": 0.4366976704682786,
+        "dreidemy_badeni_2015": 0.338804966440611,
+        "jaeschke_national_2017": 0.259792250912987,
+        "stambrook_national_2004": 0.2986315804807757,
+        "stott_contemporary_2017": 0.3013278277959898,
+        "varga_writing_2017": 0.3710022457342947
+    },
+    "stott_contemporary_2017": {
+        "bahm_class_1993": 0.3253012806254036,
+        "bahm_inconveniences_1999": 0.3437279466936251,
+        "dreidemy_badeni_2015": 0.3480933083743645,
+        "staheli_seducing_2011-1": 0.5668997738993231,
+        "storm_questioning_2019": 0.3013278277959898
+    },
+    "sturm_unter_2011": {
+        "ludtke_polizei_2011": 0.2915274280030509
+    },
+    "varga_writing_2017": {
+        "bahm_class_1993": 0.31761158483619767,
+        "bahm_inconveniences_1999": 0.4035504383943062,
+        "dreidemy_badeni_2015": 0.3300363255121565,
+        "jaeschke_national_2017": 0.2754200334069789,
+        "stambrook_national_2004": 0.3323989271228749,
+        "storm_questioning_2019": 0.3710022457342947
+    },
+    "vochyan_bakalarska_2020": {
+        "blahova_prohlasuji_2020": 0.3717010274167262
+    },
+    "weinhauer_staatsgewalt_2011": {}
+}

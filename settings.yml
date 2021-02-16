@@ -1,0 +1,32 @@
+# !!! DO NOT CHANGE EXISTING KEYS !!! ONLY VALUES
+
+# PATH TO MEMEX
+path_to_memex: ./_data/
+stopwords: ./_misc/stopwords.txt
+
+# BIBLIOGRAPHICAL FILES & OCR-ING
+zotero_bib: ./_bib/MyLibrary.bib # exported in portions from Zotero
+bib_all: ./_bib/MyLibrary.bib
+memex_all:  ./_bib/memex_bibliogaphy.bib # aggregated dfrom all single .bib files
+bibtex_keys: ./_bib/bibtex_keys.yml
+language_keys: ./_bib/bibtex_languages_manual.yml
+ocr_results: .json
+page_limit: 500 # this will help to process items below a certail threshold first
+
+# FILE NAMES WITH ANALYTICAL RESULTS
+tfidf_publ: results_tfidf_publications.dataJson
+publ_cosDist: results_cosineDist_publications.dataJson
+page_cosDist: results_cosineDist_pages.dataJson
+
+# TEMPLATES AND CONTENT FILES FOR THE INTERFACE
+template_page: ./_misc/template_page.html
+template_index: ./_misc/template_index.html
+content_index: ./_misc/content_index.html
+template_search: ./_misc/template_search.html
+
+# GENERATED FILES AND EXTENSIONS
+memexDF_file: ./_data/memex.documentFrequencies
+tfPubl_ext: .publTF # term frequencies per entire publication
+tfPage_ext: .pageTF # term frequencies per each page
+tfIdfPubl_ext: .publTFIDF # tfIdf frequencies per entire publication
+tfIdfPage_ext: .pageTFIDF # tfIdf frequencies per each page
